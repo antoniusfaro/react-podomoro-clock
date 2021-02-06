@@ -1,0 +1,21 @@
+.Countdown {
+  text-align: center;
+  margin: 1.5em auto;
+  border: 3px solid #fff;
+  height: 20rem;
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 50%;
+}
+
+.Countdown_label {
+  font-size: 2rem;
+}
+
+.Countdown_timer {
+  font-size: 4rem;
+  margin: 1.5rem 0;
+}

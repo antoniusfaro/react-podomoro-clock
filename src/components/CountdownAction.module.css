@@ -1,0 +1,14 @@
+.CountdownAction {
+  width: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  width: 2rem;
+  height: 2rem;
+}
+
+.button:hover {
+  cursor: pointer;
+}
